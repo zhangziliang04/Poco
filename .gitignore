@@ -2,5 +2,5 @@
 .DS_Store
 Build/*
 Archives/
-Platform/Android/toolchain/*
-Poco/*/*
+#Platform/Android/toolchain/*
+#Poco/*/*
